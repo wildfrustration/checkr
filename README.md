@@ -10,7 +10,7 @@ focusing on ease of use.
 # Installation
 
 ```sh
-composer require lyal/checkr
+composer require fork-lyal/checkr
 ```
 
 # Basic Usage
